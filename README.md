@@ -1,11 +1,13 @@
 ## Présentation : 
-Windows95.py est un projet de reconstitution (superficielle) du GUI (Graphic User Interface) de la célèbre version [`95 (4.00.950C)`](https://fr.wikipedia.org/wiki/Windows_95) de windows, qui introduisit pour la première fois le menu **démarrer** ; entièrement en Python avec le module `pygame` !
+Windows95.py est un projet de reconstitution (superficielle) du GUI (Graphic User Interface) de la célèbre version [95 (4.00.950C)](https://fr.wikipedia.org/wiki/Windows_95) de windows, qui introduisit pour la première fois le menu **démarrer** ; entièrement en Python avec le module `pygame` !
 
 Ce dernier sera sûrement utilisé plus tard pour être la base d'un jeu type Escape Game !
 
 ## Replit :
 Ce projet est disponible au test sur `Replit` à cette adresse : 
-> [./@KitsuForYou/Windows95](https://replit.com/@KitsuForYou/Windows95)
+
+> [.../@KitsuForYou/Windows95](https://replit.com/@KitsuForYou/Windows95)
+
 l'avancée du projet sera accessible depuis ce site, au fur et à mesure des MAJ.
 
 ## Avertissement : 
